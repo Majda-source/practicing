@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-origin modified
-=======
 origin modified for new branch
->>>>>>> branchtest
+
